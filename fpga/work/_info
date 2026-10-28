@@ -1,0 +1,735 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+Z3 !s12c _opt1
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dC:/Users/lanfang/Desktop/lab7
+T_opt
+!i145 1
+!i144 0
+!s110 1793178274
+VbnK0`6hSc>e3KTFKXIgZf0
+04 17 4 work testbench_aes_spi fast 0
+=3-546ceb15b7b5-6ae1baa1-3c0-2ec4
+R1
+!s12f OEM25U71 
+Z5 !s12b OEM100
+Z6 !s124 OEM100
+Z7 !s135 nogc
+Z8 o-quiet -auto_acc_if_foreign -work work +acc -L iCE40UP
+Z9 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z10 OL;O;2025.2;82
+T_opt1
+!i145 1
+!i144 0
+!s110 1793168264
+V<AbnJ4FNSeoZz^`?;X87F0
+04 16 4 work lab7_subbytes_tb fast 0
+=2-546ceb15b7b5-6ae19387-3c5-2b9c
+R1
+!s12f OEM25U17 
+R5
+R6
+R7
+R8
+R9
+n@_opt1
+R10
+R4
+T_opt2
+!i145 1
+!i144 0
+!s110 1793175958
+VGQJ?A^nTNDM8dn5LT^gJ10
+04 15 4 work lab7_aescore_tb fast 0
+=19-546ceb15b7b5-6ae1b196-193-33dc
+R1
+!s12f OEM25U70 
+R5
+R6
+R7
+R8
+R9
+n@_opt2
+R10
+R4
+vaes_spi
+Z11 2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes.sv
+Z12 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z13 !s110 1793177495
+!i10b 1
+!s100 ]=mb>A;EOcl4mLV8Uikhm2
+IT7c`fGJoRV:IezG9L`zA11
+S1
+R4
+Z14 w1793176386
+Z15 8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes.sv
+Z16 FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes.sv
+!i122 294
+L0 21 29
+Z17 VDg1SIo80bB@j0V0VzS_@n1
+Z18 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z19 !s108 1793177495.000000
+Z20 !s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes.sv|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes.sv|
+!i113 0
+Z22 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z23 tCvgOpt 0 defaultOptions 1085333592
+vgaloismult
+Z24 2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_mixcolumns.sv
+R12
+Z25 !s110 1793177496
+!i10b 1
+!s100 7zL68D;B88h6Mf3Oz44LN1
+IHYzE]hfC:;4daR7P6A6BV3
+S1
+R4
+Z26 w1793169206
+Z27 8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_mixcolumns.sv
+Z28 FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_mixcolumns.sv
+!i122 303
+L0 51 8
+R17
+R18
+r1
+!s85 0
+31
+Z29 !s108 1793177496.000000
+Z30 !s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_mixcolumns.sv|
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_mixcolumns.sv|
+!i113 0
+R22
+R23
+vlab7_addroundkey
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey.sv
+R12
+R13
+!i10b 1
+!s100 <C3XRLPE5MhkE[[K4Gj3I1
+I3WSh7EW;dSU[IL^PTOB1A1
+S1
+R4
+w1793168409
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey.sv
+!i122 292
+L0 6 27
+R17
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey.sv|
+!i113 0
+R22
+R23
+vlab7_addroundkey_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey_tb.sv
+R12
+R13
+!i10b 1
+!s100 30jA;3Ob?0OU38O0Ua^I82
+I@^I7e4PbKE@gT_KRhfn0J3
+S1
+R4
+w1793168052
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey_tb.sv
+!i122 293
+L0 7 45
+R17
+R18
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_addroundkey_tb.sv|
+!i113 0
+R22
+R23
+vlab7_aes
+R11
+R12
+R13
+!i10b 1
+!s100 C=KgJ]TG3^RoX8=3:XI^b2
+IZ^]aLPBbYZRjSk<C_C2Vc3
+S1
+R4
+R14
+R15
+R16
+!i122 294
+L0 1 12
+R17
+R18
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R22
+R23
+vlab7_aescore
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore.sv
+R12
+R25
+!i10b 1
+!s100 A9AOhGk:l2_]PPbiiAL>Y1
+IkhkVQo7h9czgWl8Xi3on02
+S1
+R4
+w1793177061
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore.sv
+!i122 296
+Z32 L0 7 44
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore.sv|
+!i113 0
+R22
+R23
+vlab7_aescore_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore_tb.sv
+R12
+R25
+!i10b 1
+!s100 ah]LoVOC0bME@Z^?WbMg]0
+IV4N[oLoDZG5K>QiVOmBdR3
+S1
+R4
+w1793170967
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore_tb.sv
+!i122 297
+L0 11 42
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aescore_tb.sv|
+!i113 0
+R22
+R23
+vlab7_calcword
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword.sv
+R12
+R25
+!i10b 1
+!s100 FL`oog0b]7OVLV<`SKz4Q2
+IZNcR53gNC5naTVm[^ToQi3
+S1
+R4
+w1793175593
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword.sv
+!i122 298
+L0 7 17
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword.sv|
+!i113 0
+R22
+R23
+vlab7_calcword_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword_tb.sv
+R12
+R25
+!i10b 1
+!s100 0gbNbIBm<<z3k^?gdeP993
+I]?P^NmDn_Gzhaz?Af:Ye@2
+S1
+R4
+w1793162710
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword_tb.sv
+!i122 299
+R32
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_calcword_tb.sv|
+!i113 0
+R22
+R23
+vlab7_counter
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_counter.sv
+R12
+R25
+!i10b 1
+!s100 nlV;;nzUCLLS]^ciC6B?X2
+IA=CP2VoKZ^V<SM>BMNkg81
+S1
+R4
+w1793171322
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_counter.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_counter.sv
+!i122 300
+Z33 L0 8 15
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_counter.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_counter.sv|
+!i113 0
+R22
+R23
+vlab7_keyexpansion
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion.sv
+R12
+R25
+!i10b 1
+!s100 A7oC?<L0Wdm20m[JX1dPc0
+ImfT=TZC=86l07AM?4`CP[3
+S1
+R4
+w1793175604
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion.sv
+!i122 301
+L0 7 38
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion.sv|
+!i113 0
+R22
+R23
+vlab7_keyexpansion_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion_tb.sv
+R12
+R25
+!i10b 1
+!s100 >PNRzLA7TMMFkJRI9h<eg2
+I@_zTSQ8YWLTIh7DDl]nn31
+S1
+R4
+w1793164163
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion_tb.sv
+!i122 302
+L0 7 63
+R17
+R18
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_keyexpansion_tb.sv|
+!i113 0
+R22
+R23
+vlab7_mixcolumns
+R24
+R12
+R25
+!i10b 1
+!s100 U9ZioW7D0FCZH]g<o5N=S3
+Ine9bH>WhL<=nzm6DoG=ac2
+S1
+R4
+R26
+R27
+R28
+!i122 303
+L0 8 8
+R17
+R18
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 0
+R22
+R23
+vlab7_rcon
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rcon.sv
+R12
+Z34 !s110 1793177497
+!i10b 1
+!s100 XI1lfQzcnE[:T1E?4Rm]03
+IDd5oW:7kz>QUF;;mAghGZ1
+S1
+R4
+w1793157641
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rcon.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rcon.sv
+!i122 304
+L0 7 18
+R17
+R18
+r1
+!s85 0
+31
+Z35 !s108 1793177497.000000
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rcon.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rcon.sv|
+!i113 0
+R22
+R23
+vlab7_rotword
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rotword.sv
+R12
+R34
+!i10b 1
+!s100 GH2HgaDf0h4AJMOGicVM60
+I9o_Tb^0c_7^<740m^BjCe3
+S1
+R4
+w1793158145
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rotword.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rotword.sv
+!i122 305
+L0 6 6
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rotword.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_rotword.sv|
+!i113 0
+R22
+R23
+vlab7_sbox
+Z36 2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_sbox.sv
+R12
+R34
+!i10b 1
+!s100 5`Td@PjjUjC]3`V>6kB;z3
+I=FgFA?TUn?=g>L5AZSG=o2
+S1
+R4
+Z37 w1793174288
+Z38 8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_sbox.sv
+Z39 FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_sbox.sv
+!i122 306
+L0 31 10
+R17
+R18
+r1
+!s85 0
+31
+R35
+Z40 !s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_sbox.sv|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_sbox.sv|
+!i113 0
+R22
+R23
+vlab7_sboxsync
+R36
+R12
+R34
+!i10b 1
+!s100 HMi<;iC5H^97BVQ_^ZV<_0
+IST0eYh6o4`=;CEEj8U2W50
+S1
+R4
+R37
+R38
+R39
+!i122 306
+R33
+R17
+R18
+r1
+!s85 0
+31
+R35
+R40
+R41
+!i113 0
+R22
+R23
+vlab7_shiftrows
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows.sv
+R12
+R34
+!i10b 1
+!s100 ig:mdT;QUz7_@OjXGfPNY3
+IcUE00UazO[n5F:@hJSgE90
+S1
+R4
+w1792363390
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows.sv
+!i122 307
+L0 7 31
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows.sv|
+!i113 0
+R22
+R23
+vlab7_shiftrows_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows_tb.sv
+R12
+R34
+!i10b 1
+!s100 kUQX3]jgh8BfF3CdY2Wc01
+Iic:a^@;chGZz4=R3=CCEn0
+S1
+R4
+w1792363766
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows_tb.sv
+!i122 308
+L0 9 24
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_shiftrows_tb.sv|
+!i113 0
+R22
+R23
+vlab7_subbytes
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes.sv
+R12
+R34
+!i10b 1
+!s100 jIMNDl9@F2zDfCCA6`RGY2
+IoPoGPB:lbfBReS;R]1RTZ0
+S1
+R4
+w1793174177
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes.sv
+!i122 309
+L0 7 23
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes.sv|
+!i113 0
+R22
+R23
+vlab7_subbytes_tb
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes_tb.sv
+R12
+R34
+!i10b 1
+!s100 UlgKFJ72f_Pbb7aFzPJ@21
+I:miL5B8?]TBzOU30IW:Mg1
+S1
+R4
+w1793168249
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes_tb.sv
+!i122 310
+L0 6 23
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subbytes_tb.sv|
+!i113 0
+R22
+R23
+vlab7_subword
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subword.sv
+R12
+!s110 1793177498
+!i10b 1
+!s100 ej`X4kfLYfnfDo>1ecMI[3
+IULGIE];5WW3=49CDT?lG`3
+S1
+R4
+w1793174283
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subword.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subword.sv
+!i122 311
+L0 8 10
+R17
+R18
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subword.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_subword.sv|
+!i113 0
+R22
+R23
+vmixcolumn
+R24
+R12
+R25
+!i10b 1
+!s100 kdLbPV]H>4G7lR^eaLM:b3
+IHa67eUZ]Q=R;J]Wk@T7>Z3
+S1
+R4
+R26
+R27
+R28
+!i122 303
+L0 24 19
+R17
+R18
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 0
+R22
+R23
+vtestbench_aes_spi
+2C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes_tb.sv
+R12
+!s110 1793178266
+!i10b 1
+!s100 zeEMR]KkS4^RiBmjT9hJn3
+I9Bof_LoIMbIPN8j3LB`cQ3
+S1
+R4
+w1793178252
+8C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes_tb.sv
+FC:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes_tb.sv
+!i122 314
+L0 15 66
+R17
+R18
+r1
+!s85 0
+31
+!s108 1793178266.000000
+!s107 C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/Desktop/lab7/source/impl_1/lab7_aes_tb.sv|
+!i113 0
+R22
+R23
